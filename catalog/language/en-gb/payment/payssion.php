@@ -52,7 +52,16 @@ $_['text_title_blikpl']    = 'BLIK';
 $_['text_title_epsat']    = 'EPS';
 $_['text_title_multibancopt']    = 'Multibanco';
 $_['text_title_p24pl']    = 'Przelewy24';
-
+$_['text_title_creditcardkr']    = 'South Korea Credit Card';
+$_['text_title_ebankingkr']    = 'South Korea Internet Banking';
+$_['text_title_ssgpaykr']    = 'SSG Pay';
+$_['text_title_kakaopaykr']    = 'KakaoPay';
+$_['text_title_paycokr']    = 'PAYCO';
+$_['text_title_samsungpaykr']    = 'Samsung Pay';
+$_['text_title_naverpaykr']    = 'Naver Pay';
+$_['text_title_paynowsg']    = 'PayNow';
+$_['text_title_skrill']    = 'Skrill';
+$_['text_title_trustly']    = 'Trustly';
 
 $_['text_response']				= '';
 $_['text_success']				= '... your payment was successfully received.';
